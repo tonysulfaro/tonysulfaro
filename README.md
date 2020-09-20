@@ -1,4 +1,4 @@
-# Hello there 👋 
+# Hello There 👋 
 My name is tony and I am an aspiring software engineer at Michigan State University (Go Green!)
 
 I am an avid golfer and fisherman but create side projects in my spare time!
