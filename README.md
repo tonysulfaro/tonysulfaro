@@ -1,9 +1,9 @@
 # Hello There 👋 
-My name is tony and I am an aspiring software engineer at Michigan State University (Go Green!)
+My name is Tony and I am an aspiring software engineer at Michigan State University (Go Green!)
 
 I am an avid golfer and fisherman but create side projects in my spare time!
 
-### My go-to technology stack:
+### My Go-To Technology Stack:
 - Frontend: ⚛️ React
 - Backend: 🔨 .Net Core Web API
 - Database: 🐘 Postgres
