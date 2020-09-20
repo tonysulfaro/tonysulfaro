@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello there 👋 
+My name is tony and I am an aspiring software engineer at Michigan State University (Go Green!)
+
+I am an avid golfer and fisherman but create side projects in my spare time!
+
+### My go-to technology stack:
+- Frontend: ⚛️ React
+- Backend: 🔨 .Net Core Web API
+- Database: 🐘 Postgres
+
+Feel free to peruse some of the things I'm working on currently or have worked on in the past
 
 <!--
 **tonysulfaro/tonysulfaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
