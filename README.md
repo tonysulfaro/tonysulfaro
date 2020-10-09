@@ -6,7 +6,6 @@ I am an avid golfer and fisherman but create side projects in my spare time!
 ### My Go-To Technology Stack:
 - Frontend: ⚛️ React
 - Backend: 🔨 .Net Core Web API
-- Database: 🐘 Postgres
 
 Feel free to peruse some of the things I'm working on currently or have worked on in the past
 
