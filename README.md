@@ -1,5 +1,5 @@
 # Hello There 👋 
-My name is Tony and I am an aspiring software engineer and recent graduate from Michigan State University (Go Green!)
+My name is Tony and I am a software engineer and graduate from Michigan State University (Go Green!)
 
 I am an avid golfer and fisherman but create side projects in my spare time!
 
