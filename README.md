@@ -1,11 +1,8 @@
-# Hello There 👋 
-My name is Tony and I am a Software Engineer.
+# Hey There 👋 
 
-I am an avid golfer and fisherman but create side projects in my spare time!
-
-### My Go-To Technology Stack:
-- Frontend: ⚛️ React
-- Backend: 🔨 .NET Core Web API
+### My Usual Technology Stack:
+- Frontend: ⚛️ React + TypeScript
+- Backend: 🔨 .NET Core Web API || Node + TypeScript
 
 Feel free to peruse some of the things I'm working on currently or have worked on in the past
 
